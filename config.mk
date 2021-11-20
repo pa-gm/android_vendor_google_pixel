@@ -16,6 +16,11 @@
 $(call inherit-product, vendor/google/pixel/pixel-vendor.mk)
 $(call inherit-product, vendor/aospa/prebuilt/pixel/packages.mk)
 
+# Gboard
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.com.google.ime.system_lm_dir=/product/usr/share/ime/google/d3_lms \
+    ro.com.google.ime.theme_id=5
+
 # Overlays
 PRODUCT_PACKAGES += \
     PixelDocumentsUIGoogleOverlay \
