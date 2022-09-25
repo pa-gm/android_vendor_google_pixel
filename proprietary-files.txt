@@ -80,6 +80,7 @@ product/media/audio/ui/NFCTransferComplete.ogg
 product/media/audio/ui/NFCTransferInitiated.ogg
 product/media/audio/ui/reverse_charging_end.ogg
 product/media/audio/ui/reverse_charging_start.ogg
+system/etc/sysconfig/pixel_2016_exclusive.xml
 product/media/audio/ui/Trusted.ogg
 product/media/audio/ui/Undock.ogg
 product/media/audio/ui/Unlock.ogg
