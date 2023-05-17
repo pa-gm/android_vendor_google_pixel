@@ -26,4 +26,7 @@
     <!-- Whether or not homepage should display user's account avatar -->
     <bool name="config_show_avatar_in_homepage">true</bool>
 
+    <!-- SecurityHub -->
+    <string name="config_alternative_advanced_security_category_key">com.google.android.settings.category.ia.advanced_security</string>
+
 </resources>
