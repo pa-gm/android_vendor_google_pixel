@@ -87,6 +87,7 @@ product/media/audio/ui/VideoRecord.ogg
 product/media/audio/ui/VideoStop.ogg
 product/media/audio/ui/WirelessChargingStarted.ogg
 product/priv-app/FilesPrebuilt/FilesPrebuilt.apk;PRESIGNED
+product/priv-app/MaestroPrebuilt/MaestroPrebuilt.apk;PRESIGNED
 product/priv-app/SecurityHubPrebuilt/SecurityHubPrebuilt.apk;PRESIGNED
 product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;OVERRIDES=SettingsIntelligence;PRESIGNED
 system_ext/app/Flipendo/Flipendo.apk
