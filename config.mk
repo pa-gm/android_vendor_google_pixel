@@ -27,6 +27,10 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.com.google.ime.kb_pad_land_l=64 \
     ro.com.google.ime.kb_pad_land_r=64
 
+# GMSOverride
+PRODUCT_PACKAGES += \
+    GMSOverride
+
 # Overlays
 PRODUCT_PACKAGES += \
     PixelDocumentsUIGoogleOverlay \
