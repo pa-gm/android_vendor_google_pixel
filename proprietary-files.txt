@@ -6,6 +6,7 @@ product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk;PRESIGNED;OVERRIDES=Soun
 product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;PRESIGNED;OVERRIDES=SettingsIntelligence
 product/priv-app/WeatherPixelPrebuilt/WeatherPixelPrebuilt.apk;PRESIGNED
 system_ext/app/Flipendo/Flipendo.apk
+system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;apkOVERRIDES=Launcher3,Launcher3QuickStep,TrebuchetQuickStep;PRESIGNED
 system_ext/priv-app/PixelSetupWizard/PixelSetupWizard.apk;PRESIGNED
 
 # Pixel configs
