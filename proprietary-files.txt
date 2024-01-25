@@ -2,12 +2,19 @@
 
 # Pixel application packages
 product/app/MarkupGoogle/MarkupGoogle.apk;PRESIGNED
+product/app/PixelThemesStub/PixelThemesStub.apk;PRESIGNED
+product/app/PixelThemesStub2022_and_newer/PixelThemesStub2022_and_newer.apk
+product/app/PixelWallpapers2023/PixelWallpapers2023.apk;PRESIGNED
 product/app/SoundPickerPrebuilt/SoundPickerPrebuilt.apk;PRESIGNED;OVERRIDES=SoundPicker
+product/app/WallpaperEmojiPrebuilt/WallpaperEmojiPrebuilt.apk;PRESIGNED
+product/priv-app/PixelLiveWallpaperPrebuilt/PixelLiveWallpaperPrebuilt.apk;PRESIGNED
 product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePrebuilt.apk;PRESIGNED;OVERRIDES=SettingsIntelligence
+product/priv-app/WallpaperEffect/WallpaperEffect.apk;PRESIGNED
 product/priv-app/WeatherPixelPrebuilt/WeatherPixelPrebuilt.apk;PRESIGNED
 system_ext/app/Flipendo/Flipendo.apk
 system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;apkOVERRIDES=Launcher3,Launcher3QuickStep,TrebuchetQuickStep;PRESIGNED
 system_ext/priv-app/PixelSetupWizard/PixelSetupWizard.apk;PRESIGNED
+system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk;OVERRIDES=ThemePicker,WallpaperPicker,WallpaperPicker2,WallpaperCropper;PRESIGNED
 
 # Pixel configs
 product/etc/sysconfig/game_service.xml

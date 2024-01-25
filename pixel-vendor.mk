@@ -101,8 +101,14 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     MarkupGoogle \
+    PixelThemesStub \
+    PixelThemesStub2022_and_newer \
+    PixelWallpapers2023 \
     SoundPickerPrebuilt \
+    WallpaperEmojiPrebuilt \
+    PixelLiveWallpaperPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
+    WallpaperEffect \
     WeatherPixelPrebuilt \
     Flipendo \
     NexusLauncherRelease \
@@ -114,4 +120,5 @@ PRODUCT_PACKAGES += \
     SystemUIClocks-Inflate \
     SystemUIClocks-Metro \
     SystemUIClocks-NumOverlap \
-    SystemUIClocks-Weather
+    SystemUIClocks-Weather \
+    WallpaperPickerGoogleRelease
