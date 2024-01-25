@@ -1,4 +1,4 @@
-# All unpinned files are extracted from husky-user-14-UQ1A.231205.015-11084887-release-keys
+# All unpinned files are extracted from husky-user-14-UQ1A.240105.004.A1-11206926-release-keys
 
 # Pixel application packages
 product/app/MarkupGoogle/MarkupGoogle.apk;PRESIGNED
