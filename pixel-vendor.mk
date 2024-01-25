@@ -106,6 +106,7 @@ PRODUCT_PACKAGES += \
     PixelWallpapers2023 \
     SoundPickerPrebuilt \
     WallpaperEmojiPrebuilt \
+    AiWallpapers \
     PixelLiveWallpaperPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     WallpaperEffect \
