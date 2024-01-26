@@ -37,6 +37,7 @@ PRODUCT_PACKAGES += \
     PixelDocumentsUIOverlay \
     PixelFrameworksOverlay \
     PixelLauncherFontOverlay \
+    PixelLauncherThemedIconsOverlay \
     PixelSettingsOverlay \
     PixelSetupWizardOverlay \
     PixelSetupWizardOverlay2021 \
