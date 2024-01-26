@@ -13,9 +13,9 @@ product/priv-app/SettingsIntelligenceGooglePrebuilt/SettingsIntelligenceGooglePr
 product/priv-app/WallpaperEffect/WallpaperEffect.apk;PRESIGNED
 product/priv-app/WeatherPixelPrebuilt/WeatherPixelPrebuilt.apk;PRESIGNED
 system_ext/app/Flipendo/Flipendo.apk
-system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;apkOVERRIDES=Launcher3,Launcher3QuickStep,TrebuchetQuickStep;PRESIGNED
+system_ext/priv-app/NexusLauncherRelease/NexusLauncherRelease.apk;apkOVERRIDES=Launcher3,Launcher3QuickStep,ParanoidLauncher,TrebuchetQuickStep;PRESIGNED
 system_ext/priv-app/PixelSetupWizard/PixelSetupWizard.apk;PRESIGNED
-system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk;OVERRIDES=ThemePicker,WallpaperPicker,WallpaperPicker2,WallpaperCropper;PRESIGNED
+system_ext/priv-app/WallpaperPickerGoogleRelease/WallpaperPickerGoogleRelease.apk;OVERRIDES=ParanoidThemePicker,ThemePicker,WallpaperPicker,WallpaperPicker2,WallpaperCropper;PRESIGNED
 
 # Pixel configs
 product/etc/sysconfig/game_service.xml
